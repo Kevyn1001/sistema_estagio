@@ -1,5 +1,6 @@
 # Minimundo
-*Sistema de oferta de emprego/estágio*
+ *Sistema de oferta de emprego/estágio*
+
 Sabe-se que as relações intermediárias entre as empresas e os estudantes
 da UFRRJ são muito burocráticas. Esse sistema está sendo proposto com o objetivo
 de diminuir essas relações intermediárias, a fim de serem possíveis novas
